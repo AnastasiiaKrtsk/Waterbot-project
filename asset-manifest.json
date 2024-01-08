@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/waterbot-project/static/css/main.f4509734.css",
+    "main.js": "/waterbot-project/static/js/main.07d3183d.js",
+    "index.html": "/waterbot-project/index.html",
+    "main.f4509734.css.map": "/waterbot-project/static/css/main.f4509734.css.map",
+    "main.07d3183d.js.map": "/waterbot-project/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4509734.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
